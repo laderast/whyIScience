@@ -1,11 +1,11 @@
 # Welcome to *Why I Science*!
 
-## We make movies about the hard working people who think and learn. We show that they are like everyone else and that they want to help people.
+## We make movies about the hard working people who think and learn about the world. We show that they are like everyone else and that they want to help people.
 
-Trust in science and expertise is at an all time low. There is an overall perception of elitism in science that we as scientists need to respond to. There is a perception that scientists live in their ivory tower, isolated and out of touch from the rest of society, and not having public interest at heart. 
-
-The goal of *Why I Science* is to humanize the hardworking scientists who work in the trenches, especially the postdocs, staff, and students who have dedicated their lives to helping people. We are inspired by Dan Savage's *It Gets Better* project, and how the videos managed to reach a wide range of people.
+The goal of *Why I Science* is to show that scientists are everyday people who want to help others. Many of the scientists who work in the trenches, especially the postdoctoral students, staff, and students who have dedicated their lives to helping people. We work for very little pay in our mission to help others. We help make better batteries, better treatments for diseases, and make our lives better.
 
 We want to help scientists (especially diverse scientists) to share videos about themselves and their inspirations and reasons why they work in science. 
+
+## Get Involved!
 
 Please refer to the [Roadmap](roadmap.md) for the current plan and future goals for the project.
