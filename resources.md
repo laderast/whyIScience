@@ -2,3 +2,4 @@
 
 [WeVideo](https://www.wevideo.com)
 [Google Docs for Script Writing]()
+[Etherpad for MiniWOW](https://public.etherpad-mozilla.org/p/miniWOWPDX_2017_CB)
