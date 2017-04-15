@@ -23,7 +23,7 @@ In this stage of the project, we will survey lower level scientists (postdocs, s
 3) What keeps you motivated when things are tough?
 4) How do you hope your work will impact the world?
 
-We plan to submit this project to the Mozilla Global Sprint to solicit responses.
+We plan to submit this project to the Mozilla Global Sprint to solicit responses. To this end, we need to meet the requirements at [Mozilla Sprint](http://mozilla.github.io/global-sprint).
 
 At this point, we need to think about our audience and understand why they distrust science. What are the cultural issues that we need to engage? How can we be friendly and not dismissive? How can we start a dialogue?
 
