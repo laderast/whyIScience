@@ -23,6 +23,10 @@ In this stage of the project, we will survey lower level scientists (postdocs, s
 3) What keeps you motivated when things are tough?
 4) How do you hope your work will impact the world?
 
+We plan to submit this project to the Mozilla Global Sprint to solicit responses.
+
+At this point, we need to think about our audience and understand why they distrust science. What are the cultural issues that we need to engage? How can we be friendly and not dismissive? How can we start a dialogue?
+
 ### 2. Development of Video Templates
 
 Using the results of this survey, we will attempt to develop templates to help scientists to present their own stories effectively. This may take the form of scripts to organize their thoughts, or even as video templates in online editors to make assembling their videos easier. 
