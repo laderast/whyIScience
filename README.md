@@ -8,4 +8,4 @@ We want to help scientists (especially diverse scientists) to share videos about
 
 ## Get Involved!
 
-Please refer to the [Roadmap](roadmap.md) for the current plan and future goals for the project.
+Please refer to the [Roadmap](roadmap.md) for the current plan and future goals for the project. Then, read our contributing guide about [how to contribute](CONTRIBUTING.md).

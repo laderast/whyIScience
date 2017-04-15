@@ -16,7 +16,7 @@ Our project will have multiple stages:
 
 ### 1. Conceptualization of Project
 
-In this stage of the project, we will survey lower level scientists (postdocs, staff, and students) about why they do science, using the following questions:
+In this stage of the project, we will survey lower level and early-career scientists (postdocs, staff, and students) about why they do science, using the following questions:
 
 1) Who inspired you to do science when you were young?
 2) What is your day like?
