@@ -22,9 +22,14 @@ persist in the face of continuing frustration (perhaps an unsupportive departmen
 of experiments not working). What made you persist in science despite these frustrations?
 
 3. *What makes you unique will help you connect with others*. Try to make your story personal,
-not generic. If you are quirky, don't hide it! Those traits make you human.
+not generic. If you are quirky, don't hide it! Those traits make you human. Think of it this
+way: there is perhaps a lonely kid out there who thinks that they are the only one who's 
+weird. Show them that your weirdness makes you you, and that it makes you do good science.
 
 4. *Less rehearsed is better than more polished*. Again, I think as scientists, we struggle 
 to project an air of authority by making all of our work polished. I think that very
 few of us can project this polished air. Instead, it often comes off as stilted and awkward.
 Don't worry about too many ums. Aim to capture that emotional moment. 
+
+5. *Be grateful for your opportunities*. We are all hard working people. But sometimes we
+forget that doing science is a privilege granted to us by the public, who fund our work.
