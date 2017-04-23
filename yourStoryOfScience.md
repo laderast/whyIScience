@@ -1,10 +1,19 @@
 ## Your Story of Science and How It Can Help People
 
-There is much contempt for scientists and what people term the elites: many times, scientists are 
-made to be these isolated boogeymen who don't
+There is much contempt for scientists and what people term elitism: many times, scientists are 
+made to be these isolated boogeymen who are elitist and are out of touch with their public. We
+don't care about people, we are threatening their jobs, and we don't understand their struggle.
 
 This is where your story can help. By adding your story of science to the discussion, you make
-a counter story to these 
+a counter story to these accusations. By being human, you can connect science to other people.
+
+We especially need people who grew out of diverse backgrounds and who endured hardship to get
+to where they are. Your stories are important in that we can show skeptics that we are
+like them and we want to help them.
+
+I know that a lot of scientists are uncomfortable sharing their feelings. But the truth is that
+feelings drive everything. Understanding your feelings is extremely useful, even in science.
+Without feelings, we cannot make decisions and we cannot connect with others. 
 
 ### Why Do You Science?
 
