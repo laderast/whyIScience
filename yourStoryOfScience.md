@@ -41,4 +41,6 @@ few of us can project this polished air. Instead, it often comes off as stilted 
 Don't worry about too many ums. Aim to capture that emotional moment. 
 
 5. *Be grateful for your opportunities*. We are all hard working people. But sometimes we
-forget that doing science is a privilege granted to us by the public, who fund our work.
+forget that doing science is a privilege granted to us by the public who fund our work. I
+know that many scientists, once they receive stable funding, become entitled. They feel
+like they deserve this funding. That is the attitude we want to counter.
