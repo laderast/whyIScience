@@ -10,6 +10,7 @@
 
 - [Doctors have decades of fighting "Fake news".](http://www.vox.com/science-and-health/2017/4/14/15262034/fight-fake-news-doctors-medical-community)
 - [Why Expertise Matters](http://www.npr.org/sections/13.7/2017/04/07/522992390/why-expertise-matters)
+- [Explaining Science Won't Fix Information Literacy](http://www.slate.com/articles/health_and_science/science/2017/04/explaining_science_won_t_fix_information_illiteracy.html)
 
 ## Questions/Topics to draw people in
 
