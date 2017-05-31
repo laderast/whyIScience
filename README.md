@@ -8,7 +8,7 @@ We want to help scientists (especially diverse scientists) to share videos about
 
 ## Get Involved!
 
-Please refer to the [Roadmap](roadmap.md) for the current plan and future goals for the project. Then, read our contributing guide about [how to contribute](CONTRIBUTING.md).
+Please refer to the [Roadmap](roadmap.md) for the current plan and future goals for the project. Then, read our contributing guide about [how to contribute](CONTRIBUTING.md). Please adhere to the [Code of Conduct](code_of_conduct.md) when contributing.
 
 ## Share and Share Alike!
 
