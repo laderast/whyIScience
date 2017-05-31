@@ -7,4 +7,4 @@ First off, welcome, and thank you for contributing to *Why I Science*. There are
 3) **A Video Maker/Participant**. You are awesome and are the core of *Why I Science*! Please read the formatting guidelines and content guidelines for a successful submission. When you have made your video, please submit it to the video platform of your choice, tag it with #WhyIScience in the video and submit a link to it in [this issue](https://github.com/laderast/whyIScience/issues/4).
 4) **Identify Cultural Barriers**. What do people think of when they think of a scientist? How can we overcome these negative impressions effectively in our outreach? [Join the discussion here](https://github.com/laderast/whyIScience/issues/3)
 
-Please be kind and courteous in your discussions, and follow our Code of Conduct. 
+Please be kind and courteous in your discussions, and follow our [Code of Conduct](code_of_conduct.md). 
