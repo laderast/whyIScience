@@ -9,3 +9,7 @@ We want to help scientists (especially diverse scientists) to share videos about
 ## Get Involved!
 
 Please refer to the [Roadmap](roadmap.md) for the current plan and future goals for the project. Then, read our contributing guide about [how to contribute](CONTRIBUTING.md).
+
+## Share and Share Alike!
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
